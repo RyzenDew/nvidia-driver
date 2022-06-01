@@ -8,7 +8,7 @@
 %endif
 
 Name:           nvidia-driver
-Version:        515.43.04
+Version:        515.48.07
 Release:        2%{?dist}
 Summary:        NVIDIA's proprietary display driver for NVIDIA graphic cards
 Epoch:          3
